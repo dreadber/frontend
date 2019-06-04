@@ -19,6 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
+        <maven.test.skip>true</maven.test.skip>
     </properties>
 
     <dependencies>
